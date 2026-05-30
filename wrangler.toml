@@ -1,0 +1,7 @@
+﻿name = "weather-bot"
+main = "src/index.ts"
+compatibility_date = "2026-05-30"
+workers_dev = true
+
+# If you want to deploy to your account (not only workers.dev), add:
+# account_id = "your-cloudflare-account-id"
